@@ -1,0 +1,7 @@
+if(x[i] == "."){
+    print(0)
+} else if(x[i] == "-."){
+    print(1)
+} else if (x[i] == "--"){
+    print(2)
+}
