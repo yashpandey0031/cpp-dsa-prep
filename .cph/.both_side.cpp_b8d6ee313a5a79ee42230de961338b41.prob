@@ -1,0 +1,1 @@
+{"name":"Local: both_side","url":"c:\\Users\\yashs\\Desktop\\summer_grind\\cpp-dsa\\both_side.cpp","tests":[{"id":1754457914667,"input":"1 4 8 0 ","output":"1 0\n4 8"},{"id":1754457934909,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\yashs\\Desktop\\summer_grind\\cpp-dsa\\both_side.cpp","group":"local","local":true}

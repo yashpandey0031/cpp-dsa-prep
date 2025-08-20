@@ -5,6 +5,7 @@
 
     //the function for checking if the number is magical or not 
     
+    
     bool is_magical(string number){
         for(int i = 0;i<(int)number.size();i++)
             if(number[i] != '1' && number[i] != '4')
